@@ -29,7 +29,7 @@ A web-based platform designed to help students systematically prepare for campus
 - Node.js (if backend implemented)
 
 ---
-Developed by:
+Developed by:https://github.com/sanjaychavan05
 
 ## 📦 Installation & Setup
 
@@ -43,3 +43,4 @@ npm run dev
 
 🚀 Build for Production
 npm run build
+
